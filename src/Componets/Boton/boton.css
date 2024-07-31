@@ -1,0 +1,18 @@
+#boton {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  color: black;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+  background-color: #aa96da;
+  margin: 5px;
+  font-size: 20px;
+  justify-content: center;
+  padding: 15px;
+}
+#boton:hover {
+  background-color: #feffd6;
+}
